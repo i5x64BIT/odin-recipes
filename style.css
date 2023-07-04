@@ -42,6 +42,7 @@ h1{
     margin-bottom: 2vh;
 }
 .btn{
+    display: block;
     margin: 100px auto 100px auto;
     width: fit-content;
     padding: 15px 30px;
